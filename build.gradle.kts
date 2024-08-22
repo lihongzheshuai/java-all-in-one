@@ -15,7 +15,7 @@ subprojects {
 
     idea {
         module {
-            isDownloadSources = true// 下载源码
+            isDownloadSources = true // 下载源码
             isDownloadJavadoc = true // 下载 Javadoc
         }
     }
