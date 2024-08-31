@@ -1,5 +1,6 @@
 plugins {
     id("java")
+    id("idea")
 }
 
 allprojects {
@@ -10,6 +11,14 @@ allprojects {
 subprojects {
 
     apply(plugin = "java")
+    apply(plugin = "idea")
+
+    idea {
+        module {
+            isDownloadSources = true // 下载源码
+            isDownloadJavadoc = true // 下载 Javadoc
+        }
+    }
 
     dependencies {
         implementation("org.slf4j:slf4j-api:2.0.16")
