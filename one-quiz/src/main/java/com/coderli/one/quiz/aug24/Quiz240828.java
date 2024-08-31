@@ -2,6 +2,10 @@ package com.coderli.one.quiz.aug24;
 
 import java.util.HashSet;
 
+/**
+ * 问题：这段代码输出什么？为什么？
+ * 本题考察HashSet中对象去重的原理。引申至对hashCode方法的理解。
+ */
 public class Quiz240828 {
 
     public static void main(String[] args) {
