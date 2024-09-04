@@ -6,6 +6,9 @@ plugins {
 allprojects {
     group = "com.coderli"
     version = "0.1"
+
+    ext["log4j2Version"] = "2.23.1"
+    ext["slf4jVersion"] = "2.0.16"
 }
 
 subprojects {
@@ -18,11 +21,6 @@ subprojects {
             isDownloadSources = true // 下载源码
             isDownloadJavadoc = true // 下载 Javadoc
         }
-    }
-
-    dependencies {
-        implementation("org.slf4j:slf4j-api:2.0.16")
-        implementation("ch.qos.logback:logback-classic:1.5.6")
     }
 
     repositories {
