@@ -52,3 +52,4 @@
 
 - QQ群(982860385)：[点击直接加群](https://qm.qq.com/q/qwy4BSW9La)
 - QQ频道(Java开发者乐园): [点击链接加入腾讯频道【Java开发者乐园】](https://pd.qq.com/s/dzb1xn6cd)
+- Discord开发者联盟：[点击加入](https://discord.gg/x7fKGkE3zB)
