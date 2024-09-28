@@ -28,7 +28,7 @@
 | 11 | [*《一起学Java(11)-[日志篇]教你分析SLF4J源码，掌握Logger接口实现类加载原理》*](https://www.coderli.com/java-go-11-import-log-three/)                        | [**日志框架**](https://www.coderli.com/tags/log/)   |
 | 12 | [*《一起学Java(12)-[日志篇]教你分析SLF4J源码，掌握SLF4J如何与Logback无缝集成的原理》*](https://www.coderli.com/java-go-12-import-log-four-logback/)          |  [**日志框架**](https://www.coderli.com/tags/log/)  |
 | 13 | [*《一起学Java(13)-[日志篇]教你分析SLF4J和Log4j2源码，掌握SLF4J与Log4j2桥接集成原理》*](https://www.coderli.com/java-go-13-import-log-five-log4j2-slf4j2/) |  [**日志框架**](https://www.coderli.com/tags/log/)  |
-| 13 | [*《一起学Java(14)-[日志篇]教你用透Log4j2，掌握Log4j2配置原理和实际应用》*](https://www.coderli.com/java-go-14-log-six-log4j2-config/) |  [**日志框架**](https://www.coderli.com/tags/log/)  |
+| 14 | [*《一起学Java(14)-[日志篇]教你用透Log4j2，掌握Log4j2配置原理和实际应用》*](https://www.coderli.com/java-go-14-log-six-log4j2-config/) |  [**日志框架**](https://www.coderli.com/tags/log/)  |
 
 ## 协作说明
 
