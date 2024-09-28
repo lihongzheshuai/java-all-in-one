@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5p %logger{1}[%l] - %msg%n"/>
+        </Console>
+        <Console name="d-pattern" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} - %m%n"/>
+        </Console>
+        <Console name="c-pattern" target="SYSTEM_OUT">
+            <PatternLayout pattern="%c - %m%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.coderli.one.log.log4j2.DPatternLogger" level="info" additivity="false">
+            <AppenderRef ref="d-pattern"/>
+        </Logger>
+        <Logger name="com.coderli.one.log.log4j2.CPatternLogger" level="info" additivity="false">
+            <AppenderRef ref="c-pattern"/>
+        </Logger>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>
