@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 本类用于研究Slf4j日志接口集成原理
  * @author OneCoder
- * @Blog https://www.coderli.com
+ * @Blog <a href="https://www.coderli.com">https://www.coderli.com</a>
  */
 public class Slf4jLogMain {
     public static void main(String[] args) {

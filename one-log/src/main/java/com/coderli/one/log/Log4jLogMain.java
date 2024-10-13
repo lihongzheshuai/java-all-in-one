@@ -6,8 +6,8 @@ import org.apache.logging.log4j.Logger;
 /**
  * 本类用于研究Log4j2原生日志接口使用方式
  * @author OneCoder
- * @Blog https://www.coderli.com
- * @source https://github.com/lihongzheshuai/java-all-in-one
+ * @Blog <a href="https://www.coderli.com">https://www.coderli.com</a>
+ * @source <a href="https://github.com/lihongzheshuai/java-all-in-one">https://github.com/lihongzheshuai/java-all-in-one</a>
  */
 public class Log4jLogMain {
 
