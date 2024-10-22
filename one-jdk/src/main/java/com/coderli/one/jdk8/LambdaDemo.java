@@ -8,7 +8,11 @@ public class LambdaDemo {
 
     public static void main(String[] args) {
         // 函数式接口Lambda实现
-        LambdaInterfaceDemo lambdaDemo = () -> System.out.println("Do something.");
+        LambdaFunctionalInterfaceDemo lambdaDemo = () -> System.out.println("Do something.");
         lambdaDemo.doSomething();
+
+        LambdaInterfaceDemo lambdaInterfaceImpl = (name) -> System.out.println("LambdaInterface: " + name);
+        lambdaInterfaceImpl.doSomething("Lambda Demo");
+
     }
 }
