@@ -1,4 +1,4 @@
-package com.coderli.one.jdk8;
+package com.coderli.one.jdk8.lambda;
 
 import java.util.Arrays;
 import java.util.List;
