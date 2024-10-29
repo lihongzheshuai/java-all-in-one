@@ -9,6 +9,7 @@ allprojects {
 
     ext["log4j2Version"] = "2.23.1"
     ext["slf4jVersion"] = "2.0.16"
+    ext["jacocoVersion"] = "0.8.12"
 }
 
 subprojects {
