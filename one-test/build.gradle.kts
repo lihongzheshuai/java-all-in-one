@@ -8,16 +8,3 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
-
-//testing {
-//    suites {
-//        val test by getting(JvmTestSuite::class) {
-//            useJUnitJupiter() // 使用JUnit Jupiter作为测试框架
-//
-//            dependencies {
-//                implementation("org.junit.jupiter:junit-jupiter-api:${rootProject.ext["junitVersion"]}")
-//                runtimeOnly("org.junit.jupiter:junit-jupiter-engine:${rootProject.ext["junitVersion"]}")
-//            }
-//        }
-//    }
-//}

@@ -1,5 +1,6 @@
 package com.coderli.one.test.jacoco;
 
+import com.coderli.one.test.junit.Calculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

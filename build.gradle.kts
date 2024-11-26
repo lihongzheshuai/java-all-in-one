@@ -26,9 +26,18 @@ subprojects {
     }
 
     repositories {
+        maven {
+            url = uri("https://106.12.31.244:8000/repo/repository/maven-java-1112/")
+            credentials {
+                username = project.findProperty("mavenUser") as String? ?: "dlspjys"
+                password = project.findProperty("mavenPassword") as String? ?: "AP6wkBbYmtDTUvux8gWj8JQ9QNX"
+            }
+        }
+
         maven("https://maven.aliyun.com/repository/public")
         maven("https://mirrors.cloud.tencent.com/nexus/repository/maven-public/")
         mavenCentral()
     }
+
 
 }
