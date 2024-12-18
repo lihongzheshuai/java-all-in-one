@@ -34,6 +34,8 @@
 | 17 | [*《一起学Java(17)-[测试篇]教你认识Java单元测试框架JUnit，JUnit5和JUnit4区别详解》*](https://www.coderli.com/java-go-17-test-junit-intro/) | [**单元测试**](https://www.coderli.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/) |
 | 18 | [*《一起学Java(18)-[配置篇]一个诡异(有趣)的Gradle Wrapper问题》*](https://www.coderli.com/java-go-18-gradle-wrapper-problem/) | [**构建工具**](https://www.coderli.com/tags/gradle/)|
 | 19 | [*《一起学Java(19)-[测试篇]教你通过Gradle配置和使用JUnit5》*](https://www.coderli.com/java-go-19-test-junit5-config/) | [**单元测试**](https://www.coderli.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)|
+| 20 | [*《一起学Java(20)-[测试篇]教你通过Gradle配置和使用JaCoCo单元测试覆盖率检查工具》*](https://www.coderli.com/java-go-20-test-jacoco-config/) | [**单元测试**](https://www.coderli.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)|
+| 21 | [*《一起学Java(21)-[配置篇]Gradle控制台乱码问题配置和解决》*](https://www.coderli.com/java-go-21-gradle-idea-console-garbled/) | [**构建工具**](https://www.coderli.com/tags/gradle/)|
 
 ## 协作说明
 
