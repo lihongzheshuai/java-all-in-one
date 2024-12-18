@@ -39,5 +39,10 @@ subprojects {
         mavenCentral()
     }
 
-
+    tasks.withType<JavaExec> {
+        // 设置 Java 进程的编码为 UTF-8
+        systemProperty("file.encoding", "UTF-8")
+        systemProperty("sun.stdout.encoding", "UTF-8")
+        systemProperty("sun.stderr.encoding", "UTF-8")
+    }
 }
