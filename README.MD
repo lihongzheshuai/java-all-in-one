@@ -36,6 +36,7 @@
 | 19 | [*《一起学Java(19)-[测试篇]教你通过Gradle配置和使用JUnit5》*](https://www.coderli.com/java-go-19-test-junit5-config/) | [**单元测试**](https://www.coderli.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)|
 | 20 | [*《一起学Java(20)-[测试篇]教你通过Gradle配置和使用JaCoCo单元测试覆盖率检查工具》*](https://www.coderli.com/java-go-20-test-jacoco-config/) | [**单元测试**](https://www.coderli.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)|
 | 21 | [*《一起学Java(21)-[配置篇]Gradle控制台乱码问题配置和解决》*](https://www.coderli.com/java-go-21-gradle-idea-console-garbled/) | [**构建工具**](https://www.coderli.com/tags/gradle/)|
+| 22 | [*《一起学Java(22)-[JDK篇]学习Java中String的字符编码和代理对机制》*](https://www.coderli.com/java-go-22-jdk-string-utf16/) | [**JDK**](https://www.coderli.com/tags/jdk/)                                 |
 
 ## 协作说明
 
